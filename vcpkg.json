@@ -1,0 +1,11 @@
+{
+  "dependencies": [
+    "eigen3",
+    "flann",
+    "vtk",
+    "boost",
+    "gtest",
+    "cjson"
+  ],
+  "builtin-baseline": "dee924de74e81388140a53c32a919ecec57d20ab"
+}

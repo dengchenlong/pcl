@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "cstdint": "cpp",
+        "xmemory": "cpp",
+        "complex": "cpp"
+    }
+}
